@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'iphone' target in the 'iphone' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#ifdef __cplusplus
+	#include "cocos2d.h"
+#endif
+
+#ifdef DEBUG
+#define NSLog(format, ...) printf("\n[%s] %s [第%d行] %s\n", __TIME__, __FUNCTION__, __LINE__, [[NSString stringWithFormat:format, ## __VA_ARGS__] UTF8String]);
+#else
+#define NSLog(format, ...)
+#endif
