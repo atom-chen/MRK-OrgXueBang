@@ -1,0 +1,371 @@
+<Solution>
+  <PropertyGroup Name="OrgXueBangStudio" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Font">
+          <TTF Name="arial.ttf" />
+          <Fnt Name="dafenzi.fnt" />
+          <TTF Name="gillsansultrabold.ttf" />
+          <TTF Name="WDTTianniu.ttf" />
+        </Folder>
+        <Folder Name="Image">
+          <Folder Name="BigImg">
+            <Image Name="bg_login.png" />
+            <Image Name="exp_net_failed.png" />
+            <Image Name="img_inter_bg.png" />
+            <Image Name="img_ngd_bg.png" />
+            <Image Name="img_oral_bg.png" />
+            <Image Name="mywordreport_bg1.png" />
+            <Image Name="mywordreport_bg2.png" />
+            <Image Name="mywordreport_bg3.png" />
+            <Image Name="newWordGame_icon_backstage.png" />
+            <Image Name="newWordGame_icon_frontstage.png" />
+            <Image Name="newWordGameBg.png" />
+            <Image Name="oneWordbg.png" />
+            <Image Name="vine.png" />
+          </Folder>
+          <Folder Name="SubImg">
+            <Folder Name="Commom">
+              <Folder Name="BookItem">
+                <Image Name="bookDefault.png" />
+                <Image Name="favour.png" />
+                <Image Name="free.png" />
+                <Image Name="main_bookBack.png" />
+                <Image Name="main_letter_a.png" />
+                <Image Name="main_letter_aa.png" />
+                <Image Name="main_letter_b.png" />
+                <Image Name="main_letter_c.png" />
+                <Image Name="main_letter_d.png" />
+                <Image Name="main_letter_e.png" />
+                <Image Name="main_letter_f.png" />
+                <Image Name="main_letter_g.png" />
+                <Image Name="main_letter_h.png" />
+                <Image Name="main_letter_i.png" />
+                <Image Name="main_letter_j.png" />
+                <Image Name="main_letter_k.png" />
+                <Image Name="main_letter_l.png" />
+                <Image Name="main_letter_m.png" />
+                <Image Name="main_letter_n.png" />
+                <Image Name="main_letter_o.png" />
+                <Image Name="new.png" />
+                <Image Name="read.png" />
+              </Folder>
+              <Folder Name="CommBG">
+                <Image Name="bg_com_sml.png" />
+                <Image Name="btn_com_cancel.png" />
+                <Image Name="btn_com_close.png" />
+                <Image Name="btn_com_ok.png" />
+                <Image Name="btn_fnl_blue.png" />
+                <Image Name="btn_fnl_bra.png" />
+                <Image Name="btn_fnl_gre.png" />
+                <Image Name="btn_green.png" />
+                <Image Name="btn_known.png" />
+                <Image Name="btn_mid_green.png" />
+                <Image Name="btn_sml_grn.png" />
+                <Image Name="com_rectBar.png" />
+                <Image Name="com_return.png" />
+                <Image Name="com_topBar.png" />
+                <Image Name="comm_mywordV2_bg.png" />
+                <Image Name="img_content_bg.png" />
+                <Image Name="img_head_bg.png" />
+                <Image Name="img_txt_scroll_ball.png" />
+                <Image Name="img_txt_scroll_bar.png" />
+                <Image Name="imgload.png" />
+              </Folder>
+              <Folder Name="CommNewWord">
+                <Image Name="mywordreport_back.png" />
+                <Image Name="mywordV2_title_bg.png" />
+                <Image Name="newWordGame_icon_gem.png" />
+                <Image Name="newWordGame_icon_gembg.png" />
+                <Image Name="newWordGame_icon_proc.png" />
+                <Image Name="newWordGame_icon_sound.png" />
+              </Folder>
+              <Folder Name="HeadIcon">
+                <Image Name="face1.png" />
+                <Image Name="face2.png" />
+                <Image Name="face3.png" />
+                <Image Name="face4.png" />
+                <Image Name="face5.png" />
+                <Image Name="face6.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="HomePage">
+              <Image Name="btnBookList.png" />
+              <Image Name="btnCard.png" />
+              <Image Name="btnWord.png" />
+              <Image Name="ItemBGUnit.png" />
+              <Image Name="topBarBG.png" />
+            </Folder>
+            <Folder Name="Login">
+              <Image Name="btn_login.png" />
+              <Image Name="com_aroundRect.png" />
+              <Image Name="img_bg_square.png" />
+            </Folder>
+            <Folder Name="Logo">
+              <Image Name="start_1.png" />
+              <Image Name="start_2.png" />
+              <Image Name="start_3.png" />
+              <Image Name="start_btn.png" />
+              <Image Name="startpad_btn.png" />
+              <Image Name="startpad1.png" />
+              <Image Name="startpad2.png" />
+              <Image Name="startpad3.png" />
+            </Folder>
+            <Folder Name="ModifyHead">
+              <Image Name="img_grade_select0.png" />
+              <Image Name="img_grade_select1.png" />
+            </Folder>
+            <Folder Name="MyBookList">
+              <Image Name="booklist_bg_topic.png" />
+              <Image Name="booklist_collect1.png" />
+              <Image Name="booklist_collect2.png" />
+              <Image Name="booklist_finish1.png" />
+              <Image Name="booklist_finish2.png" />
+              <Image Name="booklist_reading1.png" />
+              <Image Name="booklist_reading2.png" />
+              <Image Name="booklist_select.png" />
+            </Folder>
+            <Folder Name="NewWordBook">
+              <Image Name="mywordreport_proc.png" />
+              <Image Name="mywordreport_proc_bg.png" />
+              <Image Name="mywordV2_A.png" />
+              <Image Name="mywordV2_B.png" />
+              <Image Name="mywordV2_C.png" />
+              <Image Name="mywordV2_D.png" />
+              <Image Name="mywordV2_E.png" />
+              <Image Name="mywordV2_F.png" />
+              <Image Name="mywordV2_G.png" />
+              <Image Name="mywordV2_H.png" />
+              <Image Name="mywordV2_highlight.png" />
+              <Image Name="mywordV2_I.png" />
+              <Image Name="mywordV2_item_bg.png" />
+              <Image Name="mywordV2_J.png" />
+              <Image Name="mywordV2_K.png" />
+              <Image Name="mywordV2_L.png" />
+              <Image Name="mywordV2_M.png" />
+              <Image Name="mywordV2_N.png" />
+              <Image Name="mywordV2_nowords.png" />
+              <Image Name="mywordV2_O.png" />
+              <Image Name="mywordV2_P.png" />
+              <Image Name="mywordV2_Q.png" />
+              <Image Name="mywordV2_R.png" />
+              <Image Name="mywordV2_report.png" />
+              <Image Name="mywordV2_S.png" />
+              <Image Name="mywordV2_sort1.png" />
+              <Image Name="mywordV2_sort1_light.png" />
+              <Image Name="mywordV2_sort2.png" />
+              <Image Name="mywordV2_sort2_light.png" />
+              <Image Name="mywordV2_star.png" />
+              <Image Name="mywordV2_T.png" />
+              <Image Name="mywordV2_U.png" />
+              <Image Name="mywordV2_V.png" />
+              <Image Name="mywordV2_W.png" />
+              <Image Name="mywordV2_X.png" />
+              <Image Name="mywordV2_Y.png" />
+              <Image Name="mywordV2_Z.png" />
+            </Folder>
+            <Folder Name="NewWordGame">
+              <Image Name="btn_again.png" />
+              <Image Name="btn_return.png" />
+              <Image Name="img_title.png" />
+              <Image Name="newWordGame_icon_begin.png" />
+              <Image Name="newWordGame_icon_board_bg.png" />
+              <Image Name="newWordGame_icon_Letsgo.png" />
+              <Image Name="no_upgrade_bg.png" />
+            </Folder>
+            <Folder Name="Reading">
+              <Image Name="btn_book_select.png" />
+              <Image Name="btn_close.png" />
+              <Image Name="btn_com_audio.png" />
+              <Image Name="btn_com_clt.png" />
+              <Image Name="btn_com_clted.png" />
+              <Image Name="btn_competitive.png" />
+              <Image Name="btn_control_bg.png" />
+              <Image Name="btn_new_arrow.png" />
+              <Image Name="btn_ngd_auto0.png" />
+              <Image Name="btn_ngd_auto1.png" />
+              <Image Name="btn_oral.png" />
+              <Image Name="btn_quiz.png" />
+              <Image Name="btn_read.png" />
+              <Image Name="btn_reading_again.png" />
+              <Image Name="btn_record.png" />
+              <Image Name="btn_txt_play.png" />
+              <Image Name="btn_txt_rcd.png" />
+              <Image Name="btn_txt_replay.png" />
+              <Image Name="img_com_arrow.png" />
+              <Image Name="img_gear_bg.png" />
+              <Image Name="img_gear_center.png" />
+              <Image Name="img_gear_fg.png" />
+              <Image Name="img_inter_header.png" />
+              <Image Name="img_inter_nbg.png" />
+              <Image Name="img_ngd_topbar.png" />
+              <Image Name="img_oral_header.png" />
+              <Image Name="img_oral_outer.png" />
+              <Image Name="img_play_fg.png" />
+              <Image Name="img_quiz_bg.png" />
+              <Image Name="img_quiz_earth.png" />
+              <Image Name="img_quiz_score.png" />
+              <Image Name="img_rcd_nut1.png" />
+              <Image Name="img_rcd_nut2.png" />
+              <Image Name="img_rcd_nut3.png" />
+              <Image Name="img_rcd_nut4.png" />
+              <Image Name="img_rcd_nut5.png" />
+              <Image Name="img_record_fg.png" />
+              <Image Name="img_replay_fg.png" />
+              <Image Name="img_score_bright.png" />
+              <Image Name="img_top_bar.png" />
+              <Image Name="score_nut.png" />
+              <Image Name="score_nut_empty.png" />
+              <Image Name="word_add.png" />
+              <Image Name="word_addback.png" />
+              <Image Name="word_back.png" />
+              <Image Name="word_cn.png" />
+              <Image Name="word_newBook.png" />
+              <Image Name="word_notfind.png" />
+            </Folder>
+            <Folder Name="Setting">
+              <Image Name="img_set_arrow.png" />
+              <Image Name="img_set_bg.png" />
+            </Folder>
+            <Folder Name="ToolView">
+              <Folder Name="AlertDialog">
+                <Image Name="alertDialog_bg.png" />
+                <Image Name="alertDialog_cancel.png" />
+                <Image Name="alertDialog_continue.png" />
+                <Image Name="alertDialog_exit.png" />
+                <Image Name="alertDialog_ok.png" />
+                <Image Name="alertDialog_restart.png" />
+                <Image Name="alertDialog_save.png" />
+                <Image Name="alertDialog_sure.png" />
+              </Folder>
+              <Folder Name="UIMsgTip">
+                <Image Name="exp_fill_gas.png" />
+                <Image Name="exp_msg_bg.png" />
+                <Image Name="exp_spk_louder.png" />
+              </Folder>
+              <Folder Name="UINewHand">
+                <Image Name="img_helper_dialog.png" />
+                <Image Name="img_helper_finger.png" />
+                <Image Name="newhand_achieve.png" />
+                <Image Name="newhand_bookRecord.png" />
+                <Image Name="newhand_cardMain.png" />
+                <Image Name="newhand_cardScene.png" />
+                <Image Name="newhand_interactPage1.png" />
+                <Image Name="newhand_interactPage2.png" />
+                <Image Name="newhand_introPage1.png" />
+                <Image Name="newhand_introPage2.png" />
+                <Image Name="newhand_mask.png" />
+                <Image Name="newhand_newWord.png" />
+                <Image Name="newhand_note1.png" />
+                <Image Name="newhand_note2.png" />
+                <Image Name="newhand_noteList.png" />
+                <Image Name="newhand_selectClass.png" />
+                <Image Name="newhand_task.png" />
+                <Image Name="newhand_task1.png" />
+                <Image Name="newhand_textActor.png" />
+                <Image Name="newhand_textActor2.png" />
+                <Image Name="newhand_textRecord.png" />
+                <Image Name="newhand_userInfo.png" />
+                <Image Name="newhand_wordDetail.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="UserInfo">
+              <Image Name="appIcon.png" />
+              <Image Name="btnSetting.png" />
+              <Image Name="img_set_logout.png" />
+              <Image Name="img_title_bg.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="SubTexture">
+            <Folder Name="Commom">
+              <PlistInfo Name="BookItem.csi" Type="Plist" />
+              <PlistInfo Name="CommBG.csi" Type="Plist" />
+              <PlistInfo Name="CommNewWord.csi" Type="Plist" />
+              <PlistInfo Name="HeadIcon.csi" Type="Plist" />
+            </Folder>
+            <Folder Name="ToolView">
+              <PlistInfo Name="AlertDialog.csi" Type="Plist" />
+              <PlistInfo Name="UIMsgTip.csi" Type="Plist" />
+              <PlistInfo Name="UINewHand.csi" Type="Plist" />
+            </Folder>
+            <PlistInfo Name="HomePage.csi" Type="Plist" />
+            <PlistInfo Name="Login.csi" Type="Plist" />
+            <PlistInfo Name="ModifyHead.csi" Type="Plist" />
+            <PlistInfo Name="MyBookList.csi" Type="Plist" />
+            <PlistInfo Name="NewWordBook.csi" Type="Plist" />
+            <PlistInfo Name="NewWordGame.csi" Type="Plist" />
+            <PlistInfo Name="Reading.csi" Type="Plist" />
+            <PlistInfo Name="Setting.csi" Type="Plist" />
+            <PlistInfo Name="UserInfo.csi" Type="Plist" />
+          </Folder>
+        </Folder>
+        <Folder Name="View">
+          <Folder Name="CommView">
+            <Project Name="AboutUs.csd" Type="Layer" />
+            <Project Name="Agreement.csd" Type="Layer" />
+            <Project Name="BookLoading.csd" Type="Layer" />
+            <Project Name="Login.csd" Type="Layer" />
+            <Project Name="Logo.csd" Type="Layer" />
+            <Project Name="LogoPad.csd" Type="Layer" />
+            <Project Name="ModifyHead.csd" Type="Layer" />
+            <Project Name="Setting.csd" Type="Layer" />
+            <Project Name="UserInfo.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="CommWidget">
+            <Project Name="ComBG.csd" Type="Layer" />
+            <Project Name="node_gem.csd" Type="Node" />
+            <Project Name="NodeBG.csd" Type="Node" />
+            <Project Name="NodeTitleNav.csd" Type="Node" />
+            <Project Name="NodeTopNav.csd" Type="Node" />
+          </Folder>
+          <Folder Name="HomePage">
+            <Project Name="MainPage.csd" Type="Layer" />
+            <Project Name="NodeItemBook.csd" Type="Node" />
+            <Project Name="NodeItemBookUnit.csd" Type="Node" />
+            <Project Name="NodeTopBar.csd" Type="Node" />
+          </Folder>
+          <Folder Name="MyBookList">
+            <Project Name="booklistCell.csd" Type="Node" />
+            <Project Name="booklistMain.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="NewWordBook">
+            <Project Name="layer_myWordOneWord.csd" Type="Layer" />
+            <Project Name="layer_myWordReport.csd" Type="Layer" />
+            <Project Name="node_myWordItem.csd" Type="Node" />
+            <Project Name="node_myWordUnit.csd" Type="Node" />
+            <Project Name="UINewWordBook.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="NewWordGame">
+            <Project Name="layer_newWordGame.csd" Type="Layer" />
+            <Project Name="layer_newWordGameResult.csd" Type="Layer" />
+            <Project Name="node_wordgame_board.csd" Type="Node" />
+            <Project Name="node_wordgame_title.csd" Type="Node" />
+          </Folder>
+          <Folder Name="Reading">
+            <Project Name="BookCover.csd" Type="Layer" />
+            <Project Name="BookGuide.csd" Type="Layer" />
+            <Project Name="BookInteract.csd" Type="Layer" />
+            <Project Name="BookPage.csd" Type="Layer" />
+            <Project Name="BookPageContent.csd" Type="Layer" />
+            <Project Name="BookPageContentBG.csd" Type="Layer" />
+            <Project Name="BookRechargeTip.csd" Type="Layer" />
+            <Project Name="layer_wordFind.csd" Type="Layer" />
+            <Project Name="LayerBody.csd" Type="Layer" />
+            <Project Name="ReadOral.csd" Type="Layer" />
+            <Project Name="UIReadingFinish.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="ToolView">
+            <Project Name="ComDlg.csd" Type="Layer" />
+            <Project Name="layer_boy_msg.csd" Type="Layer" />
+            <Project Name="node_newhand_mask.csd" Type="Node" />
+            <Project Name="UIAlertDialog.csd" Type="Layer" />
+            <Project Name="UILoading.csd" Type="Layer" />
+            <Project Name="UINetAlert.csd" Type="Layer" />
+            <Project Name="UINewHand.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

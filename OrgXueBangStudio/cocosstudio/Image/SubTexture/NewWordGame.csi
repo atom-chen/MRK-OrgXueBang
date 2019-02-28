@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="NewWordGame" Type="Plist" ID="cbf29e73-453a-4fce-abf0-dd239f5168a8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/NewWordGame/btn_again.png" />
+      <FilePathData Path="Image/SubImg/NewWordGame/btn_return.png" />
+      <FilePathData Path="Image/SubImg/NewWordGame/img_title.png" />
+      <FilePathData Path="Image/SubImg/NewWordGame/newWordGame_icon_begin.png" />
+      <FilePathData Path="Image/SubImg/NewWordGame/newWordGame_icon_board_bg.png" />
+      <FilePathData Path="Image/SubImg/NewWordGame/newWordGame_icon_Letsgo.png" />
+      <FilePathData Path="Image/SubImg/NewWordGame/no_upgrade_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CommBG" Type="Plist" ID="1f566145-6b7b-46a2-bf69-d8e14c926a56" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/Commom/CommBG/bg_com_sml.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_com_close.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_fnl_blue.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_fnl_bra.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_fnl_gre.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_green.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_mid_green.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_sml_grn.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/com_rectBar.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/com_return.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/com_topBar.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/comm_mywordV2_bg.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/img_content_bg.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/img_head_bg.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/img_txt_scroll_ball.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/img_txt_scroll_bar.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/imgload.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_com_cancel.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_com_ok.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommBG/btn_known.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

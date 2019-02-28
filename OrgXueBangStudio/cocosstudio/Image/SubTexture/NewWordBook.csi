@@ -1,0 +1,45 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="NewWordBook" Type="Plist" ID="dde847f2-dab4-45fe-8ca9-2de89b58d872" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordreport_proc.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordreport_proc_bg.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_A.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_B.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_C.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_D.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_E.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_F.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_G.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_H.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_highlight.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_I.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_item_bg.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_J.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_K.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_L.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_M.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_N.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_nowords.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_O.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_P.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_Q.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_R.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_report.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_S.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_sort1.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_sort1_light.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_sort2.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_sort2_light.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_star.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_T.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_U.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_V.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_W.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_X.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_Y.png" />
+      <FilePathData Path="Image/SubImg/NewWordBook/mywordV2_Z.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

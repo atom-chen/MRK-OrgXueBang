@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MyBookList" Type="Plist" ID="5470c489-c070-4f94-9f1b-02713daa01e4" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_bg_topic.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_collect1.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_collect2.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_finish1.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_finish2.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_reading1.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_reading2.png" />
+      <FilePathData Path="Image/SubImg/MyBookList/booklist_select.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

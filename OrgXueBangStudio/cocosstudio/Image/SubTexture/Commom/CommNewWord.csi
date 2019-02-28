@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CommNewWord" Type="Plist" ID="ca599b14-2f5b-429d-bbbe-f4d15d7a2cbc" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/Commom/CommNewWord/mywordreport_back.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommNewWord/mywordV2_title_bg.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommNewWord/newWordGame_icon_gem.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommNewWord/newWordGame_icon_gembg.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommNewWord/newWordGame_icon_proc.png" />
+      <FilePathData Path="Image/SubImg/Commom/CommNewWord/newWordGame_icon_sound.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

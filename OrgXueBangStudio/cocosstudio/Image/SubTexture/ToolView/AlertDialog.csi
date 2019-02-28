@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="AlertDialog" Type="Plist" ID="15a99e90-6fbf-449d-9882-2bcf607a7343" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_bg.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_cancel.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_continue.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_exit.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_ok.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_restart.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_save.png" />
+      <FilePathData Path="Image/SubImg/ToolView/AlertDialog/alertDialog_sure.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

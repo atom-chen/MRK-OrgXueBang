@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UserInfo" Type="Plist" ID="78f29ce2-a968-4b3f-98d0-9dcb1f922ab3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/UserInfo/appIcon.png" />
+      <FilePathData Path="Image/SubImg/UserInfo/btnSetting.png" />
+      <FilePathData Path="Image/SubImg/UserInfo/img_set_logout.png" />
+      <FilePathData Path="Image/SubImg/UserInfo/img_title_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

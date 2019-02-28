@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="BookItem" Type="Plist" ID="78b8176c-7c52-4936-be3f-cfece9349dd8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/Commom/BookItem/bookDefault.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/favour.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/free.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_bookBack.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_a.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_aa.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_b.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_c.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_d.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_e.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_f.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_g.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_h.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_i.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_j.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_k.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_l.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_m.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_n.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/main_letter_o.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/new.png" />
+      <FilePathData Path="Image/SubImg/Commom/BookItem/read.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

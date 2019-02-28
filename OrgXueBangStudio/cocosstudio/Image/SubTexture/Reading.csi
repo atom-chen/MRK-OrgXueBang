@@ -1,0 +1,55 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Reading" Type="Plist" ID="8d90d350-13a0-4749-ab35-a5f7b5e07635" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/Reading/btn_close.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_com_audio.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_com_clt.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_com_clted.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_competitive.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_control_bg.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_new_arrow.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_ngd_auto0.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_ngd_auto1.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_oral.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_quiz.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_read.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_record.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_txt_play.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_txt_rcd.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_txt_replay.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_com_arrow.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_gear_bg.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_gear_center.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_gear_fg.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_inter_header.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_inter_nbg.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_ngd_topbar.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_oral_header.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_oral_outer.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_play_fg.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_quiz_earth.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_quiz_score.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_rcd_nut1.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_rcd_nut2.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_rcd_nut3.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_rcd_nut4.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_rcd_nut5.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_record_fg.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_replay_fg.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_score_bright.png" />
+      <FilePathData Path="Image/SubImg/Reading/img_top_bar.png" />
+      <FilePathData Path="Image/SubImg/Reading/score_nut.png" />
+      <FilePathData Path="Image/SubImg/Reading/score_nut_empty.png" />
+      <FilePathData Path="Image/SubImg/Reading/word_add.png" />
+      <FilePathData Path="Image/SubImg/Reading/word_addback.png" />
+      <FilePathData Path="Image/SubImg/Reading/word_cn.png" />
+      <FilePathData Path="Image/SubImg/Reading/word_newBook.png" />
+      <FilePathData Path="Image/SubImg/Reading/word_notfind.png" />
+      <FilePathData Path="Image/SubImg/Reading/word_back.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_book_select.png" />
+      <FilePathData Path="Image/SubImg/Reading/btn_reading_again.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

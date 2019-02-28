@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIMsgTip" Type="Plist" ID="e8d6ea76-75a5-437e-882f-92588c808287" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/ToolView/UIMsgTip/exp_fill_gas.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UIMsgTip/exp_msg_bg.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UIMsgTip/exp_spk_louder.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

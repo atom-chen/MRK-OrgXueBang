@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="HomePage" Type="Plist" ID="9cfca413-66a2-4e04-b183-8d8abd4f131a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/HomePage/btnBookList.png" />
+      <FilePathData Path="Image/SubImg/HomePage/btnCard.png" />
+      <FilePathData Path="Image/SubImg/HomePage/btnWord.png" />
+      <FilePathData Path="Image/SubImg/HomePage/ItemBGUnit.png" />
+      <FilePathData Path="Image/SubImg/HomePage/topBarBG.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

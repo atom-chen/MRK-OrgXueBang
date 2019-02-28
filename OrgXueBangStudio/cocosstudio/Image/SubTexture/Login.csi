@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Login" Type="Plist" ID="8cc76f9f-4a67-4b84-8f65-5410ae90e96b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/Login/btn_login.png" />
+      <FilePathData Path="Image/SubImg/Login/com_aroundRect.png" />
+      <FilePathData Path="Image/SubImg/Login/img_bg_square.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

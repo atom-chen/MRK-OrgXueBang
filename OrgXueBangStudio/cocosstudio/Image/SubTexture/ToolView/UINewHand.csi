@@ -1,0 +1,31 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UINewHand" Type="Plist" ID="c64681fc-af92-4544-afa2-07ac78ac308b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/img_helper_dialog.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/img_helper_finger.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_achieve.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_bookRecord.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_cardMain.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_cardScene.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_interactPage1.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_interactPage2.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_introPage1.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_introPage2.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_newWord.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_note1.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_note2.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_noteList.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_selectClass.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_task.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_task1.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_textActor.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_textActor2.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_textRecord.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_userInfo.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_wordDetail.png" />
+      <FilePathData Path="Image/SubImg/ToolView/UINewHand/newhand_mask.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>
