@@ -1,0 +1,76 @@
+
+gems.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gems/gem_1
+  rotate: false
+  xy: 247, 98
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+gems/gem_3
+  rotate: false
+  xy: 0, 20
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+gems/pot_1
+  rotate: false
+  xy: 0, 0
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+gems/pot_2
+  rotate: false
+  xy: 177, 140
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+gems/star
+  rotate: false
+  xy: 0, 73
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: false
+  xy: 93, 27
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 420, 193
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 293, 177
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: true
+  xy: 177, 79
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 352, 188
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

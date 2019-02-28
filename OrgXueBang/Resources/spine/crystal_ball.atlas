@@ -1,0 +1,76 @@
+
+crystal_ball.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crystal_ball/ball
+  rotate: false
+  xy: 186, 135
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+crystal_ball/light
+  rotate: false
+  xy: 289, 153
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+crystal_ball/light_in
+  rotate: false
+  xy: 0, 60
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+crystal_ball/pedestal
+  rotate: false
+  xy: 0, 9
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+crystal_ball/star
+  rotate: false
+  xy: 302, 99
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: false
+  xy: 432, 192
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: true
+  xy: 247, 74
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 373, 167
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 186, 65
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 89, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

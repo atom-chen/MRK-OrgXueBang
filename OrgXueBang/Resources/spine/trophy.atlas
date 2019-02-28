@@ -1,0 +1,62 @@
+
+trophy2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+page_1
+  rotate: false
+  xy: 238, 207
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 318, 198
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 97, 7
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 177, 183
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: true
+  xy: 177, 115
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+trophy/bowknot
+  rotate: true
+  xy: 177, 83
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+trophy/star
+  rotate: false
+  xy: 0, 78
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+trophy/trophy
+  rotate: true
+  xy: 0, 0
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1

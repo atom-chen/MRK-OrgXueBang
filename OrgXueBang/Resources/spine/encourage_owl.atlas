@@ -1,0 +1,76 @@
+
+encourage_owl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_b
+  rotate: false
+  xy: 4, 229
+  size: 732, 787
+  orig: 732, 787
+  offset: 0, 0
+  index: -1
+owl/body
+  rotate: true
+  xy: 740, 272
+  size: 158, 229
+  orig: 158, 229
+  offset: 0, 0
+  index: -1
+owl/book
+  rotate: false
+  xy: 884, 53
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+owl/eyelid_l
+  rotate: true
+  xy: 973, 965
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+owl/eyelid_r
+  rotate: false
+  xy: 718, 4
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+owl/hand_l
+  rotate: false
+  xy: 740, 155
+  size: 188, 113
+  orig: 188, 113
+  offset: 0, 0
+  index: -1
+owl/hand_r
+  rotate: true
+  xy: 718, 62
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+owl/hat
+  rotate: false
+  xy: 4, 47
+  size: 397, 178
+  orig: 397, 178
+  offset: 0, 0
+  index: -1
+owl/head
+  rotate: false
+  xy: 405, 17
+  size: 309, 208
+  orig: 309, 208
+  offset: 0, 0
+  index: -1
+word/zhenlihails
+  rotate: true
+  xy: 740, 434
+  size: 582, 229
+  orig: 582, 229
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+dictionary.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dictionary/bookmark_1
+  rotate: false
+  xy: 981, 103
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+dictionary/bookmark_2
+  rotate: true
+  xy: 109, 0
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_under_1
+  rotate: false
+  xy: 353, 54
+  size: 127, 70
+  orig: 127, 70
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_under_2
+  rotate: false
+  xy: 226, 41
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_under_3
+  rotate: false
+  xy: 109, 23
+  size: 113, 101
+  orig: 113, 101
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_under_4
+  rotate: false
+  xy: 0, 13
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_up_1
+  rotate: false
+  xy: 484, 73
+  size: 124, 51
+  orig: 124, 51
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_up_2
+  rotate: false
+  xy: 612, 80
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_up_3
+  rotate: false
+  xy: 856, 88
+  size: 121, 36
+  orig: 121, 36
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_up_4
+  rotate: false
+  xy: 484, 39
+  size: 117, 30
+  orig: 117, 30
+  offset: 0, 0
+  index: -1
+dictionary/dictionary_up_5
+  rotate: false
+  xy: 736, 82
+  size: 116, 42
+  orig: 116, 42
+  offset: 0, 0
+  index: -1
+dictionary/page_1
+  rotate: false
+  xy: 353, 8
+  size: 111, 42
+  orig: 111, 42
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: true
+  xy: 612, 0
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: true
+  xy: 846, 21
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 719, 9
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 658, 10
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 778, 22
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

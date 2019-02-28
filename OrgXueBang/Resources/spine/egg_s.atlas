@@ -1,0 +1,48 @@
+
+egg_s.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burst_1
+  rotate: true
+  xy: 163, 122
+  size: 123, 177
+  orig: 123, 177
+  offset: 0, 0
+  index: -1
+burst_2
+  rotate: false
+  xy: 4, 69
+  size: 155, 176
+  orig: 155, 176
+  offset: 0, 0
+  index: -1
+burst_3
+  rotate: true
+  xy: 344, 24
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+egg
+  rotate: true
+  xy: 163, 4
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+egg_crackle
+  rotate: true
+  xy: 163, 78
+  size: 40, 158
+  orig: 40, 158
+  offset: 0, 0
+  index: -1
+incubator_new
+  rotate: true
+  xy: 344, 138
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1

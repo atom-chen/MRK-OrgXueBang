@@ -1,0 +1,83 @@
+
+notepad.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+notepad/note_1
+  rotate: false
+  xy: 252, 179
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+notepad/note_2
+  rotate: true
+  xy: 0, 0
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+notepad/note_3
+  rotate: true
+  xy: 86, 7
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+notepad/note_base
+  rotate: false
+  xy: 177, 158
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+notepad/note_top
+  rotate: false
+  xy: 252, 148
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+notepad/star
+  rotate: false
+  xy: 0, 81
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: true
+  xy: 461, 176
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 238, 93
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 334, 185
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 177, 88
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 393, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

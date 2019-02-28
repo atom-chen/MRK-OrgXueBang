@@ -1,0 +1,83 @@
+
+good.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Good_1
+  rotate: true
+  xy: 1417, 157
+  size: 685, 231
+  orig: 685, 231
+  offset: 0, 0
+  index: -1
+Good_2
+  rotate: true
+  xy: 1650, 208
+  size: 634, 216
+  orig: 634, 216
+  offset: 0, 0
+  index: -1
+Good_3
+  rotate: false
+  xy: 883, 2
+  size: 429, 153
+  orig: 429, 153
+  offset: 0, 0
+  index: -1
+Good_4
+  rotate: false
+  xy: 2, 1143
+  size: 1415, 903
+  orig: 1415, 903
+  offset: 0, 0
+  index: -1
+tupian4
+  rotate: false
+  xy: 2, 1143
+  size: 1415, 903
+  orig: 1415, 903
+  offset: 0, 0
+  index: -1
+tupian1
+  rotate: false
+  xy: 1419, 1430
+  size: 626, 616
+  orig: 626, 616
+  offset: 0, 0
+  index: -1
+tupian2
+  rotate: false
+  xy: 1419, 844
+  size: 594, 584
+  orig: 594, 584
+  offset: 0, 0
+  index: -1
+tupian3
+  rotate: true
+  xy: 883, 159
+  size: 457, 450
+  orig: 457, 450
+  offset: 0, 0
+  index: -1
+tupian5
+  rotate: false
+  xy: 883, 618
+  size: 532, 523
+  orig: 532, 523
+  offset: 0, 0
+  index: -1
+xing_1
+  rotate: true
+  xy: 447, 87
+  size: 1054, 434
+  orig: 1054, 434
+  offset: 0, 0
+  index: -1
+xing_2
+  rotate: true
+  xy: 2, 54
+  size: 1087, 443
+  orig: 1087, 443
+  offset: 0, 0
+  index: -1

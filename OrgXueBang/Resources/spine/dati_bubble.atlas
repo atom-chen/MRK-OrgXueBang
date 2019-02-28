@@ -1,0 +1,153 @@
+
+dati_bubble.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 928, 894
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+2_11
+  rotate: false
+  xy: 384, 564
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+2_13
+  rotate: false
+  xy: 472, 458
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+2_15
+  rotate: false
+  xy: 492, 564
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 395, 326
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: true
+  xy: 363, 434
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+2_7
+  rotate: true
+  xy: 291, 320
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+2_9
+  rotate: false
+  xy: 252, 434
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 4, 268
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+bubble1
+  rotate: false
+  xy: 317, 811
+  size: 211, 193
+  orig: 211, 193
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 4, 423
+  size: 244, 264
+  orig: 244, 264
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: false
+  xy: 4, 691
+  size: 309, 313
+  orig: 309, 313
+  offset: 0, 0
+  index: -1
+effect1_1
+  rotate: false
+  xy: 532, 876
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_2
+  rotate: false
+  xy: 4, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_3
+  rotate: false
+  xy: 664, 876
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_4
+  rotate: false
+  xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_5
+  rotate: false
+  xy: 796, 876
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_6
+  rotate: false
+  xy: 317, 679
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_7
+  rotate: false
+  xy: 159, 291
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_8
+  rotate: false
+  xy: 449, 679
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect1_9
+  rotate: false
+  xy: 252, 547
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

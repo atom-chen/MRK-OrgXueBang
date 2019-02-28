@@ -1,0 +1,55 @@
+
+card.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+matong
+  rotate: true
+  xy: 0, 0
+  size: 130, 218
+  orig: 140, 228
+  offset: 5, 5
+  index: -1
+star
+  rotate: false
+  xy: 265, 366
+  size: 130, 130
+  orig: 173, 171
+  offset: 21, 21
+  index: -1
+star1
+  rotate: false
+  xy: 265, 366
+  size: 130, 130
+  orig: 173, 171
+  offset: 21, 21
+  index: -1
+star3
+  rotate: false
+  xy: 265, 366
+  size: 130, 130
+  orig: 173, 171
+  offset: 21, 21
+  index: -1
+star4
+  rotate: false
+  xy: 265, 366
+  size: 130, 130
+  orig: 173, 171
+  offset: 21, 21
+  index: -1
+star5
+  rotate: false
+  xy: 265, 366
+  size: 130, 130
+  orig: 173, 171
+  offset: 21, 21
+  index: -1
+图层-2@2x
+  rotate: false
+  xy: 0, 130
+  size: 265, 366
+  orig: 285, 387
+  offset: 10, 10
+  index: -1

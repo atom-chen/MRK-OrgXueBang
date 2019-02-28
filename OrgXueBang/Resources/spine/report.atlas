@@ -1,0 +1,62 @@
+
+report2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+page_1
+  rotate: false
+  xy: 0, 0
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 429, 199
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 370, 183
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 177, 82
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 238, 92
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+report/pencil
+  rotate: false
+  xy: 0, 46
+  size: 104, 29
+  orig: 104, 29
+  offset: 0, 0
+  index: -1
+report/report
+  rotate: false
+  xy: 177, 152
+  size: 189, 98
+  orig: 189, 98
+  offset: 0, 0
+  index: -1
+report/star
+  rotate: false
+  xy: 0, 79
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1

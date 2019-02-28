@@ -1,0 +1,20 @@
+
+sence_light.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sence_light_1
+  rotate: false
+  xy: 4, 1163
+  size: 2047, 1155
+  orig: 2047, 1155
+  offset: 0, 0
+  index: -1
+sence_light_2
+  rotate: false
+  xy: 4, 4
+  size: 2047, 1155
+  orig: 2047, 1155
+  offset: 0, 0
+  index: -1

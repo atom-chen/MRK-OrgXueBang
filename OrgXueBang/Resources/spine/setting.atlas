@@ -1,0 +1,76 @@
+
+setting.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+page_1
+  rotate: false
+  xy: 391, 175
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: true
+  xy: 238, 78
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 264, 150
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 177, 69
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 323, 161
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+setting/cabinet
+  rotate: false
+  xy: 0, 7
+  size: 127, 35
+  orig: 127, 35
+  offset: 0, 0
+  index: -1
+setting/gear_1
+  rotate: false
+  xy: 131, 0
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+setting/gear_2
+  rotate: false
+  xy: 177, 139
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+setting/gear_3
+  rotate: false
+  xy: 184, 11
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+setting/star
+  rotate: false
+  xy: 0, 46
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1

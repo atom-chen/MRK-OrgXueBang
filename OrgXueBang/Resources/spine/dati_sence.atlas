@@ -1,0 +1,76 @@
+
+dati_sence.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble_1
+  rotate: false
+  xy: 1400, 104
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+bubble_2
+  rotate: false
+  xy: 1723, 323
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+bubble_3
+  rotate: false
+  xy: 1400, 124
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+bubble_4
+  rotate: false
+  xy: 1658, 314
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+bubble_5
+  rotate: false
+  xy: 1466, 276
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+sence_before
+  rotate: false
+  xy: 1400, 358
+  size: 643, 144
+  orig: 643, 144
+  offset: 0, 0
+  index: -1
+sence_light_s
+  rotate: false
+  xy: 4, 4
+  size: 694, 498
+  orig: 694, 498
+  offset: 0, 0
+  index: -1
+sence_up
+  rotate: false
+  xy: 702, 4
+  size: 694, 498
+  orig: 694, 498
+  offset: 0, 0
+  index: -1
+spoon
+  rotate: false
+  xy: 1400, 167
+  size: 62, 127
+  orig: 62, 127
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 1400, 298
+  size: 254, 56
+  orig: 254, 56
+  offset: 0, 0
+  index: -1

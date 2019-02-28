@@ -1,0 +1,13 @@
+
+loading_second.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading
+  rotate: false
+  xy: 4, 4
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1

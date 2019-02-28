@@ -1,0 +1,48 @@
+
+ladybug.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 618, 191
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+menu_liebiao
+  rotate: false
+  xy: 4, 41
+  size: 303, 203
+  orig: 303, 203
+  offset: 0, 0
+  index: -1
+menu_sousuo
+  rotate: false
+  xy: 311, 41
+  size: 303, 203
+  orig: 303, 203
+  offset: 0, 0
+  index: -1
+plant
+  rotate: true
+  xy: 4, 4
+  size: 33, 119
+  orig: 33, 119
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 127, 5
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 618, 149
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1

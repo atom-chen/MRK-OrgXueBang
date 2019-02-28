@@ -1,0 +1,97 @@
+
+encourage_squirrel.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_encourage
+  rotate: false
+  xy: 740, 852
+  size: 309, 168
+  orig: 309, 168
+  offset: 0, 0
+  index: -1
+bucuols
+  rotate: false
+  xy: 4, 14
+  size: 580, 215
+  orig: 580, 215
+  offset: 0, 0
+  index: -1
+encourage_body/arm_l
+  rotate: false
+  xy: 1053, 908
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+encourage_body/face
+  rotate: false
+  xy: 588, 4
+  size: 279, 225
+  orig: 279, 225
+  offset: 0, 0
+  index: -1
+encourage_body/hair
+  rotate: true
+  xy: 1283, 974
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+encourage_body/hand_l
+  rotate: true
+  xy: 1053, 974
+  size: 46, 226
+  orig: 46, 226
+  offset: 0, 0
+  index: -1
+encourage_body/hand_r
+  rotate: false
+  xy: 740, 362
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+encourage_body/hat
+  rotate: false
+  xy: 740, 689
+  size: 307, 159
+  orig: 307, 159
+  offset: 0, 0
+  index: -1
+encourage_body/mouth
+  rotate: false
+  xy: 740, 411
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 740, 511
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+light_b
+  rotate: false
+  xy: 4, 233
+  size: 732, 787
+  orig: 732, 787
+  offset: 0, 0
+  index: -1
+light_r
+  rotate: false
+  xy: 862, 479
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 926, 621
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

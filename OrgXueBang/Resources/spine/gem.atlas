@@ -1,0 +1,27 @@
+
+gem.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层-217-拷贝-2@2x
+  rotate: true
+  xy: 89, 9
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+图层-217-拷贝@2x
+  rotate: true
+  xy: 149, 11
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+图层-217@2x
+  rotate: true
+  xy: 0, 0
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1

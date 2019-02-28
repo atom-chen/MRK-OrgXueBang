@@ -1,0 +1,174 @@
+
+quiz_body.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 308, 67
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+2_11
+  rotate: false
+  xy: 584, 643
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+2_13
+  rotate: true
+  xy: 454, 399
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+2_15
+  rotate: false
+  xy: 403, 66
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 919, 650
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: false
+  xy: 692, 649
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+2_7
+  rotate: false
+  xy: 805, 654
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+2_9
+  rotate: false
+  xy: 197, 68
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 543, 531
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 4, 622
+  size: 466, 393
+  orig: 466, 393
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: false
+  xy: 4, 4
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: true
+  xy: 973, 918
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+eyelid_1_l
+  rotate: true
+  xy: 973, 856
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+eyelid_1_r
+  rotate: false
+  xy: 197, 25
+  size: 89, 39
+  orig: 89, 39
+  offset: 0, 0
+  index: -1
+eyelid_2_l
+  rotate: false
+  xy: 706, 573
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+eyelid_2_r
+  rotate: true
+  xy: 454, 289
+  size: 106, 82
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+eyelid_3_l
+  rotate: false
+  xy: 454, 507
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+eyelid_3_r
+  rotate: false
+  xy: 474, 635
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 4, 258
+  size: 446, 360
+  orig: 446, 360
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 370, 181
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 4, 181
+  size: 73, 362
+  orig: 73, 362
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 616, 545
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 474, 758
+  size: 495, 257
+  orig: 495, 257
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 4, 24
+  size: 189, 153
+  orig: 189, 153
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+grade_settlement.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banners
+  rotate: false
+  xy: 740, 763
+  size: 615, 236
+  orig: 615, 236
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 740, 369
+  size: 348, 390
+  orig: 348, 390
+  offset: 0, 0
+  index: -1
+disk
+  rotate: true
+  xy: 1092, 432
+  size: 327, 324
+  orig: 327, 324
+  offset: 0, 0
+  index: -1
+leaf_gild
+  rotate: true
+  xy: 740, 248
+  size: 117, 166
+  orig: 117, 166
+  offset: 0, 0
+  index: -1
+leaf_l
+  rotate: false
+  xy: 1359, 923
+  size: 166, 76
+  orig: 166, 76
+  offset: 0, 0
+  index: -1
+leaf_r
+  rotate: false
+  xy: 910, 303
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+light_b
+  rotate: false
+  xy: 4, 212
+  size: 732, 787
+  orig: 732, 787
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: false
+  xy: 740, 224
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: true
+  xy: 4, 4
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+ribbon_3
+  rotate: false
+  xy: 1359, 843
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+ribbon_4
+  rotate: false
+  xy: 276, 135
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+ribbon_5
+  rotate: false
+  xy: 1092, 394
+  size: 88, 34
+  orig: 88, 34
+  offset: 0, 0
+  index: -1
+word
+  rotate: false
+  xy: 4, 110
+  size: 268, 98
+  orig: 268, 98
+  offset: 0, 0
+  index: -1

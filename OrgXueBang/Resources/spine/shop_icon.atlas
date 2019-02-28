@@ -1,0 +1,48 @@
+
+shop_icon.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_b1
+  rotate: false
+  xy: 106, 78
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+light_b2
+  rotate: false
+  xy: 106, 149
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: -1
+light_b3
+  rotate: false
+  xy: 4, 149
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+light_b4
+  rotate: false
+  xy: 4, 76
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+light_b5
+  rotate: false
+  xy: 4, 4
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+light_b6
+  rotate: false
+  xy: 165, 78
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+monster7.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 4, 4
+  size: 74, 119
+  orig: 74, 119
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 202, 101
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 82, 33
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+oral_cavity
+  rotate: false
+  xy: 82, 62
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+pupilla
+  rotate: false
+  xy: 228, 113
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 82, 98
+  size: 116, 25
+  orig: 116, 25
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 82, 41
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 113, 77
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1

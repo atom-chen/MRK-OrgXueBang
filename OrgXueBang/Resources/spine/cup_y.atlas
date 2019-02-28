@@ -1,0 +1,118 @@
+
+cup_y.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caitiaoyou@2x
+  rotate: false
+  xy: 830, 50
+  size: 64, 112
+  orig: 67, 113
+  offset: 2, 0
+  index: -1
+caitiaozuo@2x
+  rotate: false
+  xy: 953, 199
+  size: 40, 57
+  orig: 42, 58
+  offset: 1, 1
+  index: -1
+lv@2x
+  rotate: false
+  xy: 354, 108
+  size: 46, 42
+  orig: 64, 64
+  offset: 7, 10
+  index: -1
+qipao@2x
+  rotate: false
+  xy: 830, 20
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+xinxin@2x
+  rotate: false
+  xy: 0, 8
+  size: 54, 54
+  orig: 70, 77
+  offset: 8, 9
+  index: -1
+xinxin@2x - 副本
+  rotate: false
+  xy: 0, 8
+  size: 54, 54
+  orig: 70, 77
+  offset: 8, 9
+  index: -1
+xinxin@2x - 副本 - 副本
+  rotate: false
+  xy: 0, 8
+  size: 54, 54
+  orig: 70, 77
+  offset: 8, 9
+  index: -1
+youcao@2x
+  rotate: false
+  xy: 830, 162
+  size: 123, 94
+  orig: 124, 96
+  offset: 1, 1
+  index: -1
+zuocao@2x
+  rotate: true
+  xy: 255, 69
+  size: 81, 99
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+zuolaba@2x
+  rotate: true
+  xy: 561, 100
+  size: 156, 162
+  orig: 177, 182
+  offset: 9, 11
+  index: -1
+zuolaba@2x - 副本
+  rotate: true
+  xy: 561, 100
+  size: 156, 162
+  orig: 177, 182
+  offset: 9, 11
+  index: -1
+图层-366-拷贝@2x
+  rotate: false
+  xy: 723, 110
+  size: 107, 146
+  orig: 110, 146
+  offset: 2, 0
+  index: -1
+图层-392-拷贝-5@2x
+  rotate: false
+  xy: 723, 0
+  size: 107, 110
+  orig: 128, 131
+  offset: 12, 12
+  index: -1
+图层-392-拷贝-5@2x - 副本
+  rotate: false
+  xy: 723, 0
+  size: 107, 110
+  orig: 128, 131
+  offset: 12, 12
+  index: -1
+彩条2@2x
+  rotate: false
+  xy: 255, 150
+  size: 306, 106
+  orig: 312, 110
+  offset: 3, 4
+  index: -1
+蓝色奖杯-拷贝-2@2x
+  rotate: false
+  xy: 0, 62
+  size: 255, 194
+  orig: 273, 210
+  offset: 9, 8
+  index: -1

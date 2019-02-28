@@ -1,0 +1,83 @@
+
+chui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipses_1_png
+  rotate: true
+  xy: 1436, 1056
+  size: 203, 244
+  orig: 203, 244
+  offset: 0, 0
+  index: -1
+Ellipses_3_png
+  rotate: false
+  xy: 1666, 1618
+  size: 343, 389
+  orig: 343, 389
+  offset: 0, 0
+  index: -1
+Ellipses_4_png
+  rotate: true
+  xy: 1153, 1137
+  size: 122, 279
+  orig: 122, 279
+  offset: 0, 0
+  index: -1
+_Rounded_rectangles_2_png
+  rotate: false
+  xy: 1666, 1356
+  size: 241, 258
+  orig: 241, 258
+  offset: 0, 0
+  index: -1
+_Rounded_rectangles_3_png
+  rotate: false
+  xy: 4, 1082
+  size: 1145, 925
+  orig: 1145, 925
+  offset: 0, 0
+  index: -1
+_Rounded_rectangles_4_png
+  rotate: true
+  xy: 4, 4
+  size: 355, 396
+  orig: 355, 396
+  offset: 0, 0
+  index: -1
+_Rounded_rectangles_5_png
+  rotate: true
+  xy: 1684, 1124
+  size: 228, 193
+  orig: 228, 193
+  offset: 0, 0
+  index: -1
+bianzi1
+  rotate: false
+  xy: 1153, 1263
+  size: 509, 744
+  orig: 509, 744
+  offset: 0, 0
+  index: -1
+bianzi1_0
+  rotate: false
+  xy: 404, 112
+  size: 285, 247
+  orig: 285, 247
+  offset: 0, 0
+  index: -1
+toubu1
+  rotate: true
+  xy: 732, 404
+  size: 674, 560
+  orig: 674, 560
+  offset: 0, 0
+  index: -1
+toubu_chui
+  rotate: false
+  xy: 4, 363
+  size: 724, 715
+  orig: 724, 715
+  offset: 0, 0
+  index: -1

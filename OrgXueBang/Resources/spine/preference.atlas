@@ -1,0 +1,83 @@
+
+preference.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+page_1
+  rotate: false
+  xy: 98, 9
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 178, 0
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: true
+  xy: 334, 171
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 273, 160
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: true
+  xy: 225, 70
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+preference/book_1
+  rotate: true
+  xy: 405, 171
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+preference/book_2
+  rotate: false
+  xy: 177, 132
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+preference/book_3
+  rotate: false
+  xy: 224, 138
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+preference/book_4
+  rotate: false
+  xy: 177, 55
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+preference/book_5
+  rotate: true
+  xy: 0, 4
+  size: 47, 94
+  orig: 47, 94
+  offset: 0, 0
+  index: -1
+preference/star
+  rotate: false
+  xy: 0, 55
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1

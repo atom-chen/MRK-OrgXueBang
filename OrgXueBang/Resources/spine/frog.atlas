@@ -1,0 +1,146 @@
+
+frog.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右大腿@2x
+  rotate: false
+  xy: 1597, 162
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+右大臂@2x
+  rotate: true
+  xy: 1665, 182
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+右小腿@2x
+  rotate: false
+  xy: 1430, 148
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+右小臂@2x
+  rotate: false
+  xy: 698, 46
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+右衣服@2x
+  rotate: true
+  xy: 620, 50
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+图层-0@2x
+  rotate: false
+  xy: 1239, 111
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+图层-1@2x
+  rotate: false
+  xy: 1232, 52
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+图层-2@2x
+  rotate: false
+  xy: 1974, 202
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+左大腿@2x
+  rotate: false
+  xy: 1514, 159
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+左大臂@2x
+  rotate: true
+  xy: 1743, 183
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+左小腿@2x
+  rotate: true
+  xy: 520, 48
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+左小臂@2x
+  rotate: true
+  xy: 1821, 197
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+左衣服@2x
+  rotate: true
+  xy: 1905, 200
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+掌和扫把@2x
+  rotate: false
+  xy: 329, 120
+  size: 431, 113
+  orig: 431, 113
+  offset: 0, 0
+  index: -1
+眼珠@2x
+  rotate: false
+  xy: 1068, 25
+  size: 162, 84
+  orig: 162, 84
+  offset: 0, 0
+  index: -1
+眼球@2x
+  rotate: false
+  xy: 329, 27
+  size: 189, 91
+  orig: 189, 91
+  offset: 0, 0
+  index: -1
+眼皮@2x
+  rotate: false
+  xy: 1239, 142
+  size: 189, 91
+  orig: 189, 91
+  offset: 0, 0
+  index: -1
+脸@2x
+  rotate: false
+  xy: 0, 4
+  size: 327, 229
+  orig: 327, 229
+  offset: 0, 0
+  index: -1
+身体@2x
+  rotate: false
+  xy: 762, 0
+  size: 304, 233
+  orig: 304, 233
+  offset: 0, 0
+  index: -1
+魔法帽@2x
+  rotate: false
+  xy: 1068, 111
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+readingnotes.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bookmark_red
+  rotate: true
+  xy: 269, 53
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+bookmark_yellow
+  rotate: true
+  xy: 269, 30
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+books_down
+  rotate: false
+  xy: 177, 188
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+books_middel
+  rotate: false
+  xy: 280, 197
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+books_up_l
+  rotate: false
+  xy: 0, 0
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+books_up_r
+  rotate: false
+  xy: 177, 134
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: false
+  xy: 380, 202
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: true
+  xy: 214, 14
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: true
+  xy: 177, 75
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 93, 3
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: true
+  xy: 154, 5
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+quill_pen
+  rotate: false
+  xy: 460, 192
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+quill_pen_stand
+  rotate: false
+  xy: 248, 78
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 0, 73
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1

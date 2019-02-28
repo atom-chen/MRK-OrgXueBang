@@ -1,0 +1,41 @@
+
+good_feel.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 622, 124
+  size: 202, 266
+  orig: 202, 266
+  offset: 0, 0
+  index: -1
+body_shadow
+  rotate: false
+  xy: 4, 26
+  size: 235, 300
+  orig: 235, 300
+  offset: 0, 0
+  index: -1
+good
+  rotate: false
+  xy: 243, 50
+  size: 348, 123
+  orig: 348, 123
+  offset: 0, 0
+  index: -1
+good_shadow
+  rotate: false
+  xy: 243, 177
+  size: 375, 149
+  orig: 375, 149
+  offset: 0, 0
+  index: -1
+shop_star
+  rotate: false
+  xy: 4, 4
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+basket2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basket/basket
+  rotate: false
+  xy: 304, 398
+  size: 159, 102
+  orig: 159, 102
+  offset: 0, 0
+  index: -1
+basket/basket_in
+  rotate: false
+  xy: 0, 200
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+basket/basket_side_l
+  rotate: false
+  xy: 304, 215
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+basket/basket_side_r
+  rotate: false
+  xy: 366, 321
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+basket/cloth
+  rotate: false
+  xy: 343, 161
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+basket/gam_1
+  rotate: false
+  xy: 257, 17
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+basket/gam_2
+  rotate: true
+  xy: 0, 0
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+basket/gift
+  rotate: true
+  xy: 177, 48
+  size: 148, 102
+  orig: 148, 102
+  offset: 0, 0
+  index: -1
+basket/star
+  rotate: false
+  xy: 0, 25
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+basket/suger
+  rotate: false
+  xy: 304, 292
+  size: 58, 102
+  orig: 58, 102
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: false
+  xy: 177, 2
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: false
+  xy: 377, 196
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 446, 327
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 377, 251
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: true
+  xy: 283, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

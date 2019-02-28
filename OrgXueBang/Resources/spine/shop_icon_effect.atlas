@@ -1,0 +1,13 @@
+
+shop_icon_effect.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shop_star
+  rotate: false
+  xy: 4, 4
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

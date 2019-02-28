@@ -1,0 +1,279 @@
+
+quiz.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: true
+  xy: 1998, 160
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+2_11
+  rotate: true
+  xy: 3696, 900
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+2_13
+  rotate: false
+  xy: 2112, 182
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+2_15
+  rotate: true
+  xy: 3135, 727
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: true
+  xy: 2220, 189
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: false
+  xy: 3811, 899
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+2_7
+  rotate: false
+  xy: 3924, 904
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+2_9
+  rotate: false
+  xy: 3585, 895
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 3250, 726
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1632, 255
+  size: 466, 393
+  orig: 466, 393
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 1632, 652
+  size: 1000, 352
+  orig: 1000, 352
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: false
+  xy: 2737, 668
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: false
+  xy: 2636, 654
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+eyelid_1_l
+  rotate: false
+  xy: 2552, 310
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+eyelid_1_r
+  rotate: false
+  xy: 2112, 139
+  size: 89, 39
+  orig: 89, 39
+  offset: 0, 0
+  index: -1
+eyelid_2_l
+  rotate: false
+  xy: 1993, 84
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+eyelid_2_r
+  rotate: false
+  xy: 2443, 202
+  size: 106, 82
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+eyelid_3_l
+  rotate: true
+  xy: 2328, 199
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+eyelid_3_r
+  rotate: false
+  xy: 3475, 885
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2102, 288
+  size: 446, 360
+  orig: 446, 360
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 3323, 784
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 1632, 178
+  size: 73, 362
+  orig: 73, 362
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 3321, 866
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2636, 747
+  size: 495, 257
+  orig: 495, 257
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 3135, 830
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1632, 21
+  size: 189, 153
+  orig: 189, 153
+  offset: 0, 0
+  index: -1
+sence
+  rotate: true
+  xy: 4, 4
+  size: 1000, 1624
+  orig: 1000, 1624
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1937, 29
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+word_1
+  rotate: false
+  xy: 1825, 26
+  size: 108, 148
+  orig: 108, 148
+  offset: 0, 0
+  index: -1
+word_10
+  rotate: true
+  xy: 2925, 710
+  size: 33, 106
+  orig: 33, 106
+  offset: 0, 0
+  index: -1
+word_11
+  rotate: false
+  xy: 1937, 83
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+word_2
+  rotate: false
+  xy: 4038, 912
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+word_3
+  rotate: true
+  xy: 2636, 688
+  size: 55, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+word_4
+  rotate: false
+  xy: 2553, 221
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+word_5
+  rotate: true
+  xy: 2798, 693
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1
+word_6
+  rotate: false
+  xy: 2552, 356
+  size: 60, 128
+  orig: 60, 128
+  offset: 0, 0
+  index: -1
+word_7
+  rotate: true
+  xy: 3035, 704
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+word_8
+  rotate: false
+  xy: 2552, 488
+  size: 75, 160
+  orig: 75, 160
+  offset: 0, 0
+  index: -1
+word_9
+  rotate: false
+  xy: 3400, 774
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1

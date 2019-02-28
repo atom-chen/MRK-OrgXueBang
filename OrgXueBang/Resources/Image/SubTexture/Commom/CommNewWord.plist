@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/SubImg/Commom/CommNewWord/mywordreport_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,103},{42,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,61}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommNewWord/mywordV2_title_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{328,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{328,100}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommNewWord/newWordGame_icon_gem.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,168},{44,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,51}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommNewWord/newWordGame_icon_gembg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,103},{175,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,63}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommNewWord/newWordGame_icon_proc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{331,1},{181,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{181,102}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommNewWord/newWordGame_icon_sound.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{178,103},{100,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,76}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CommNewWord.png</string>
+			<key>realTextureFileName</key>
+			<string>CommNewWord.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

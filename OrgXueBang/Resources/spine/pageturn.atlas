@@ -1,0 +1,34 @@
+
+pageturn.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mail_lingt3
+  rotate: false
+  xy: 872, 173
+  size: 42, 42
+  orig: 74, 74
+  offset: 16, 16
+  index: -1
+书页@2x
+  rotate: true
+  xy: 673, 42
+  size: 173, 199
+  orig: 173, 199
+  offset: 0, 0
+  index: -1
+图层-126@2x
+  rotate: false
+  xy: 407, 32
+  size: 266, 183
+  orig: 446, 383
+  offset: 90, 108
+  index: -1
+魔法书@2x
+  rotate: false
+  xy: 0, 0
+  size: 407, 215
+  orig: 407, 215
+  offset: 0, 0
+  index: -1

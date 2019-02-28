@@ -1,0 +1,139 @@
+
+crystal_grade.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crystal_ball/a
+  rotate: false
+  xy: 246, 107
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+crystal_ball/b
+  rotate: false
+  xy: 293, 125
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+crystal_ball/ball
+  rotate: false
+  xy: 190, 154
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+crystal_ball/c
+  rotate: false
+  xy: 428, 208
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+crystal_ball/d
+  rotate: false
+  xy: 293, 79
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+crystal_ball/e
+  rotate: false
+  xy: 196, 61
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+crystal_ball/f
+  rotate: false
+  xy: 239, 61
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+crystal_ball/g
+  rotate: false
+  xy: 58, 30
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+crystal_ball/h
+  rotate: false
+  xy: 376, 161
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+crystal_ball/i
+  rotate: true
+  xy: 4, 4
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+crystal_ball/j
+  rotate: false
+  xy: 156, 30
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+crystal_ball/k
+  rotate: false
+  xy: 424, 161
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+crystal_ball/l
+  rotate: false
+  xy: 471, 161
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+crystal_ball/light
+  rotate: false
+  xy: 292, 171
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+crystal_ball/light_in
+  rotate: false
+  xy: 4, 78
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+crystal_ball/m
+  rotate: false
+  xy: 190, 107
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+crystal_ball/n
+  rotate: false
+  xy: 108, 30
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+crystal_ball/o
+  rotate: false
+  xy: 376, 208
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+crystal_ball/star
+  rotate: false
+  xy: 4, 24
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

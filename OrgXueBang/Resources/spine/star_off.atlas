@@ -1,0 +1,20 @@
+
+star_off.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing@2x
+  rotate: false
+  xy: 129, 18
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+xingxingguanghuan@2x
+  rotate: true
+  xy: 0, 0
+  size: 127, 129
+  orig: 138, 140
+  offset: 5, 5
+  index: -1

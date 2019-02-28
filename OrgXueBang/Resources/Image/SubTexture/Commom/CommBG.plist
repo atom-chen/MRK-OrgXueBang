@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/SubImg/Commom/CommBG/bg_com_sml.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{703,1},{204,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{204,188}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_com_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,669},{82,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,85}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_fnl_blue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,289},{160,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,65}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_fnl_bra.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{509,187},{190,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,96}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_fnl_gre.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{701,191},{190,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,96}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{820,289},{118,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,52}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_mid_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,203},{284,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,99}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_sml_grn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{820,409},{106,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{106,50}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/com_rectBar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{893,191},{198,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{198,79}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/com_return.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,391},{82,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{82,86}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/com_topBar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,325},{750,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,89}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/comm_mywordV2_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{220,322}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,322}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/img_content_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,475},{150,192}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,192}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/img_head_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{425,1},{184,175}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{184,175}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/img_txt_scroll_ball.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{974,294},{35,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,35}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/img_txt_scroll_bar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,304},{478,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{478,14}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/imgload.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,1},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_com_cancel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{602,1},{177,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{177,85}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_com_ok.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{909,1},{177,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{177,85}</string>
+			</dict>
+			<key>Image/SubImg/Commom/CommBG/btn_known.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{974,180},{112,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,44}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CommBG.png</string>
+			<key>realTextureFileName</key>
+			<string>CommBG.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

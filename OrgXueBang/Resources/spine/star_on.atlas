@@ -1,0 +1,20 @@
+
+star_on.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing@2x
+  rotate: false
+  xy: 177, 68
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+xingxingguanghuan@2x
+  rotate: false
+  xy: 0, 0
+  size: 177, 177
+  orig: 211, 211
+  offset: 17, 17
+  index: -1

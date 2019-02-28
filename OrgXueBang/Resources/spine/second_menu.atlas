@@ -1,0 +1,13 @@
+
+second_menu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menu
+  rotate: false
+  xy: 4, 4
+  size: 731, 833
+  orig: 731, 833
+  offset: 0, 0
+  index: -1

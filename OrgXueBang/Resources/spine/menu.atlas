@@ -1,0 +1,55 @@
+
+menu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circular
+  rotate: false
+  xy: 4, 4
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+circular_down
+  rotate: false
+  xy: 269, 157
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+circular_shadow
+  rotate: false
+  xy: 166, 151
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 4, 113
+  size: 158, 135
+  orig: 158, 135
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 424, 184
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+playback
+  rotate: false
+  xy: 364, 184
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+recording
+  rotate: false
+  xy: 115, 42
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+hourglass2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hourglass/hourglass
+  rotate: true
+  xy: 177, 88
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+hourglass/pencil
+  rotate: false
+  xy: 177, 171
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+hourglass/sand_1
+  rotate: true
+  xy: 0, 0
+  size: 4, 16
+  orig: 4, 16
+  offset: 0, 0
+  index: -1
+hourglass/sand_2
+  rotate: true
+  xy: 177, 78
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+hourglass/sand_down
+  rotate: false
+  xy: 452, 217
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+hourglass/sand_up
+  rotate: true
+  xy: 279, 125
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+hourglass/star
+  rotate: false
+  xy: 0, 78
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: false
+  xy: 372, 207
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: true
+  xy: 129, 17
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: false
+  xy: 313, 182
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 0, 8
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+page_5
+  rotate: false
+  xy: 61, 18
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

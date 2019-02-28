@@ -1,0 +1,27 @@
+
+cup_light.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongzhi_light1
+  rotate: false
+  xy: 0, 0
+  size: 483, 438
+  orig: 624, 671
+  offset: 65, 140
+  index: -1
+chongzhi_light2
+  rotate: false
+  xy: 483, 21
+  size: 417, 417
+  orig: 453, 453
+  offset: 18, 18
+  index: -1
+chongzhi_light3
+  rotate: false
+  xy: 900, 131
+  size: 307, 307
+  orig: 321, 321
+  offset: 7, 7
+  index: -1

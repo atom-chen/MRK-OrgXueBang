@@ -1,0 +1,83 @@
+
+monster9.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 4, 46
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 4, 11
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+fair_1
+  rotate: false
+  xy: 218, 114
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+fair_2
+  rotate: false
+  xy: 131, 81
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 4, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 98, 78
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+pupilla
+  rotate: false
+  xy: 218, 100
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 98, 99
+  size: 116, 25
+  orig: 116, 25
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 41, 30
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: false
+  xy: 41, 18
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 98, 57
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1

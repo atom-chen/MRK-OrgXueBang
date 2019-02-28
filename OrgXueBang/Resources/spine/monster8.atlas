@@ -1,0 +1,69 @@
+
+monster8.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 4, 26
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 88, 65
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 53, 18
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 4, 5
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+pupilla
+  rotate: false
+  xy: 120, 86
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 88, 99
+  size: 116, 25
+  orig: 116, 25
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 39, 4
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: false
+  xy: 208, 114
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 88, 44
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1

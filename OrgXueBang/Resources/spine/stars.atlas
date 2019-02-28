@@ -1,0 +1,13 @@
+
+stars.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+星星粒子
+  rotate: false
+  xy: 4, 4
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1

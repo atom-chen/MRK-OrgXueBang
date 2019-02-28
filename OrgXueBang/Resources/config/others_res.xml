@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordsRoot>
+    
+    <!--与服务交互的版本号，每次更新APP 时+1-->
+    <appVersion>3</appVersion>
+    <appChannelID>app_channel_ID</appChannelID>
+    <appVersionNotice>新版本已发布,是否前往更新？</appVersionNotice>
+    <appVersionNotice_en>New version is availble for downloading.Update?</appVersionNotice_en>
+    <appVersionerror>下载错误</appVersionerror>
+    <appVersionerror_en>Download error</appVersionerror_en>
+    
+    <!--关闭提示-->
+    <set_backey>再次点击返回按钮退出应用</set_backey>
+    <!--未购买-->
+    <set_unBuy>请先购买书籍再开始下载</set_unBuy>
+    <!--是否删除-->
+    <set_sureDel>是否确定删除图书资源，删除后可再次下载。</set_sureDel>
+    <!--设置界面-->
+    <set_question>%s加%s等于</set_question>
+    <set_number0>零</set_number0>
+    <set_number1>壹</set_number1>
+    <set_number2>贰</set_number2>
+    <set_number3>叁</set_number3>
+    <set_number4>肆</set_number4>
+    <set_number5>伍</set_number5>
+    <set_number6>陆</set_number6>
+    <set_number7>柒</set_number7>
+    <set_number8>捌</set_number8>
+    <set_number9>玖</set_number9>
+    <set_question_en>%s+%s=?</set_question_en>
+    <set_number0_en>0</set_number0_en>
+    <set_number1_en>1</set_number1_en>
+    <set_number2_en>2</set_number2_en>
+    <set_number3_en>3</set_number3_en>
+    <set_number4_en>4</set_number4_en>
+    <set_number5_en>5</set_number5_en>
+    <set_number6_en>6</set_number6_en>
+    <set_number7_en>7</set_number7_en>
+    <set_number8_en>8</set_number8_en>
+    <set_number9_en>9</set_number9_en>
+    <!--登录界面-->
+    <login_msgphonename>请输入正确用户名或者手机号码！</login_msgphonename>
+    <login_msgphone>请输入正确手机号码！</login_msgphone>
+    <login_msgname>请输入正确用户名！</login_msgname>
+    <login_msgnick>昵称不合法！</login_msgnick>
+    <login_msgpassword>密码需要6-10位的数字字母</login_msgpassword>
+    <login_msgcode>短信验证码错误或已过期</login_msgcode>
+    <login_msg1>临时帐号不可修改密码</login_msg1>
+    <login_wait>请稍候</login_wait>
+    <login_errornet>网络连接错误</login_errornet>
+    <login_msgok>短信发送成功</login_msgok>
+    <login_phone>电话号码</login_phone>
+    <login_phone_name>电话号码/用户名</login_phone_name>
+    <login_name>用户名</login_name>
+    <login_password>密码</login_password>
+    <login_password1>旧密码</login_password1>
+    <login_password2>新密码</login_password2>
+    <login_nickname>昵称</login_nickname>
+    <login_code>验证码</login_code>
+    <login_ok>登录成功</login_ok>
+    <login_ok_r>注册成功</login_ok_r>
+    <login_ok_o>操作成功</login_ok_o>
+    <login_send_notice>数据发送中请稍候</login_send_notice>
+    <login_testuser>当前为临时帐号，是否注册？</login_testuser>
+    <login_accontuser>当前帐号未绑定手机，是否绑定？</login_accontuser>
+    <!--设置界面-->
+    <set_error>回答错误，再试一次吧！</set_error>
+    <set_name1>修改昵称成功！</set_name1>
+    <set_name2>修改昵称失败！</set_name2>
+    <set_name3>昵称不能为空！</set_name3>
+    <set_name4>请输入</set_name4>
+    <!--add by hyp-->
+    <cl_strings01>咦，坚果不够啦~去购买坚果吧!</cl_strings01>
+    <cl_strings02>新衣服将消耗%d颗坚果，确定购买吗?</cl_strings02>
+    <cl_strings03>确定要保存形象吗？</cl_strings03>
+    <cl_strings04>保存形象成功!</cl_strings04>
+    <cl_strings05>保存形象失败!</cl_strings05>
+    <cl_strings06>保存到相册成功!</cl_strings06>
+    <cl_strings07>快去给Sammy换装吧!</cl_strings07>
+    <com_strings01>网络连接错误!</com_strings01>
+    <com_strings02>购买失败!</com_strings02>
+    <com_strings03>数据错误!</com_strings03>
+    <com_strings04>购买成功!</com_strings04>
+    <com_strings05>提交成功,感谢您为我们提出宝贵意见，我们将不胜感激!</com_strings05>
+    <com_strings06>请输入内容!</com_strings06>
+    <prompt_strings01>是否切换为英文？</prompt_strings01>
+    <shop_islands01>确定要购买奇幻森林岛吗？</shop_islands01>
+    <shop_islands02>确定要购买四个岛(第一个到第四个)吗？</shop_islands02>
+    <shop_islands03>确定要购买四个岛(第五个到第八个)吗?</shop_islands03>
+    <shop_islands04>确定要购买四个岛(第九个到第十二个)吗?</shop_islands04>
+    <shop_islands05>确定要购买十二个岛(第一个到第十二个)吗?</shop_islands05>
+    <shop_string02>咦，钻石不够啦~去购买钻石吧!</shop_string02>
+    <shop_string03>您尚未购买此产品，现在去购买?</shop_string03>
+    
+    <tip_string01>要从上一次离开的地方继续学习吗?</tip_string01>
+    <tip_string02>慢一点，我都反应不过来啦</tip_string02>
+    <tip_string03>稍等片刻，书籍马上就要下载好了喔~</tip_string03>
+    <tip_string04>请检查你的网络设置</tip_string04>
+    <tip_string05>请先到设置里允许移动网络下载</tip_string05>
+    
+    <pk_string01>每次PK将耗费3颗坚果，是否马上进入挑战？</pk_string01>
+    <pk_string02>再次匹配对手将耗费3颗坚果，是否立即匹配？</pk_string02>
+    <pk_string03>咦，坚果不够啦~</pk_string03>
+    <pk_string04>每晚八点奖励坚果准时奉上~</pk_string04>
+    <pk_string05>第 %d 名</pk_string05>
+    
+    <ad_string01>马上要开始纯原版阅读啦，$想帮孩子迈出稳健的第一步吗？$关注“读伴儿美式课堂”微信公众号，$马上获得每一课针对性的辅导指南！</ad_string01>
+    <ad_string02>通过第一本书的反复练习，$相信您聪明的孩子一定对课程非常熟悉了，$不妨在菜单设置中将提示语变成英文，$给孩子纯正的浸入式学习环境~</ad_string02>
+    <ad_string03>您知道吗？您与孩子之间的交流，$会让英文学习自然地发生，$到“读伴儿美式课堂”微信公众号中，$了解更多陪伴的小技巧吧~</ad_string03>
+    <ad_string04>爸爸妈妈也可以帮助孩子赚取坚果啦！$到“读伴儿美式课堂”微信公众号签到，$帮孩子多多获得奖励哦~</ad_string04>
+    <ad_string05>好成绩怎么能不分享呢？$在“读伴儿美式课堂”微信公众号，$查看孩子学习进展，$分享学习的乐趣！</ad_string05>
+
+
+
+    <record_string01>     重新录音将清除历史录音记录,确定是否重新开始录音?</record_string01>
+    <record_string02>不存在录音文件,请录音.</record_string02>
+    <record_string03>%s朗读了一本书，快来围观吧!</record_string03>
+    <record_string04>"%s朗读了%s,好书要分享，时效有限快来听听吧!"</record_string04>
+
+    <!--英文-->
+    <login_msgphonename_en>Please enter the correct user name !</login_msgphonename_en>
+    <login_msgphone_en>Please enter the correct phone number !</login_msgphone_en>
+    <login_msgname_en>Please enter the correct user name !</login_msgname_en>
+    <login_msgnick_en>Incorrect App Nickname !</login_msgnick_en>
+    <login_msgpassword_en>Password requires 6-10 letters or numbers</login_msgpassword_en>
+    <login_msgcode_en>Authentication code error or expired</login_msgcode_en>
+    <login_msg1_en>Password cannot be change for Temporary account</login_msg1_en>
+    <login_wait_en>Loading</login_wait_en>
+    <login_errornet_en>Connection error</login_errornet_en>
+    <login_msgok_en>Message Sending successfully</login_msgok_en>
+    <login_phone_en>phone number</login_phone_en>
+    <login_phone_name_en>phone number/ user name</login_phone_name_en>
+    <login_name_en>Username</login_name_en>
+    <login_password_en>Password</login_password_en>
+    <login_password1_en>Old password</login_password1_en>
+    <login_password2_en>New password</login_password2_en>
+    <login_nickname_en>App Nickname</login_nickname_en>
+    <login_code_en>Verification code</login_code_en>
+    <login_ok_en>You have logged in! </login_ok_en>
+    <login_ok_r_en>Registration Successful</login_ok_r_en>
+    <login_ok_o_en>Operation successful</login_ok_o_en>
+    <login_send_notice_en>Loading</login_send_notice_en>
+    <login_testuser_en>Temporary Account, log in right now?</login_testuser_en>
+    <login_accontuser_en>bound phone number right now?</login_accontuser_en>
+    <!--设置界面-->
+     <set_error_en>Error, try again!</set_error_en>
+     <set_name1_en>Request Sucessful</set_name1_en>
+     <set_name2_en>Request Failed</set_name2_en>
+     <set_name3_en>Please enter Nickname properly.</set_name3_en>
+     <set_name4_en>Please enter details properly.</set_name4_en>
+     <!--add by hyp-->
+     <cl_strings01_en>Nuts have run out! Buy more</cl_strings01_en>
+     <cl_strings02_en>New clothes will cost %d nuts. Are you sure to buy them?</cl_strings02_en>
+     <cl_strings03_en>Are you sure you want to save the images?</cl_strings03_en>
+     <cl_strings04_en>Saving successful</cl_strings04_en>
+     <cl_strings05_en>Saving failed</cl_strings05_en>
+     <cl_strings06_en>Save to your phone!</cl_strings06_en>
+     <cl_strings07_en>Dress up Sammy right now.</cl_strings07_en>
+     <com_strings01_en>Connection error</com_strings01_en>
+     <com_strings02_en>Purchase failed</com_strings02_en>
+     <com_strings03_en>Data error</com_strings03_en>
+     <com_strings04_en>Purchase sucessed</com_strings04_en>
+     <com_strings05_en>Submit Successfully !  Your suggestion wil be greatly appreciated . </com_strings05_en>
+     <com_strings06_en>Please type here.</com_strings06_en>
+     
+     <shop_islands01_en>Are you sure you want to buy Magic forest Island?</shop_islands01_en>
+     <shop_islands02_en>Are you sure you want to buy Island's 1 to 4?</shop_islands02_en>
+     <shop_islands03_en>Are you sure you want to buy Island's 5 to 8?</shop_islands03_en>
+     <shop_islands04_en>Are you sure you want to buy Island's 9 to 12?</shop_islands04_en>
+     <shop_islands05_en>Are you sure you want to buy all 12 Islands?</shop_islands05_en>
+     <shop_string01_en>Buying this will cost %d diamonds.</shop_string01_en>
+     <shop_string02_en>Your diamonds have run out - you need to buy more diamonds.</shop_string02_en>
+     <shop_string03_en>You haven't bought this. Do you want to buy it now?</shop_string03_en>
+    
+     <tip_string01_en>Do you want to continue from where you left last time?</tip_string01_en>
+     <tip_string02_en>Please wait for the recording to end</tip_string02_en>
+     <tip_string03_en>Wait a second, we are downloading books~</tip_string03_en>
+     <tip_string04_en>Please check your network connection.</tip_string04_en>
+     <tip_string05_en>PLease go to "Setting" -" General" -"Network" and enable "Cellular Data".</tip_string05_en>
+     
+     <pk_string01_en>Each race will cost you 3 nuts.Take part in the race right now?</pk_string01_en>
+     <pk_string02_en>A rematch will cost you 3 nuts. Have a rematch right now?</pk_string02_en>
+     <pk_string03_en>Your nuts have run out</pk_string03_en>
+     <pk_string04_en>Get nuts everyday~</pk_string04_en>
+     <pk_string05_en>NO. %d</pk_string05_en>
+     
+     <prompt_strings01_en>是否切换为英文？</prompt_strings01_en>
+     <ad_string01_en>马上要开始纯原版阅读啦，$想帮孩子迈出稳健的第一步吗？$关注“读伴儿美式课堂”微信公众号，$马上获得每一课针对性的辅导指南！</ad_string01_en>
+     <ad_string02_en>通过第一本书的反复练习，$相信您聪明的孩子一定对课程非常熟悉了，$不妨在菜单设置中将提示语变成英文，$给孩子纯正的浸入式学习环境~</ad_string02_en>
+     <ad_string03_en>您知道吗？您与孩子之间的交流，$会让英文学习自然地发生，$到“读伴儿美式课堂”微信公众号中，$了解更多陪伴的小技巧吧~</ad_string03_en>
+     <ad_string04_en>爸爸妈妈也可以帮助孩子赚取坚果啦！$到“读伴儿美式课堂”微信公众号签到，$帮孩子多多获得奖励哦~</ad_string04_en>
+     <ad_string05_en>好成绩怎么能不分享呢？$在“读伴儿美式课堂”微信公众号，$查看孩子学习进展，$分享学习的乐趣！</ad_string05_en>
+</wordsRoot>

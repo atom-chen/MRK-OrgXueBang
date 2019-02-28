@@ -1,0 +1,13 @@
+
+answer_nut.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nutfruit
+  rotate: false
+  xy: 4, 4
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
